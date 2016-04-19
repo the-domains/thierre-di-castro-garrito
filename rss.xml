@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thierre Di Castro Garrito]]></title>
+        <description><![CDATA[Thierre Di Castro Garrito]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Apr 2016 10:46:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f87272d7-79fc-498a-9214-6be070bd0b41.jpg">]]></description>
+            <link>undefinedd453ed82-f753-40a0-ad96-4f328ea9ee9b/index.html</link>
+            <guid isPermaLink="false">d453ed82-f753-40a0-ad96-4f328ea9ee9b</guid>
+            <pubDate>Tue, 19 Apr 2016 10:46:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Thierre Di Castro Garrito]]></title>
         <description><![CDATA[Thierre Di Castro Garrito]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thierre-di-castro-garrito/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 10:46:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 10:53:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thierre-di-castro-garrito/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54c559a1-58ce-4511-b0c7-1877be5ddb7c.jpg">]]></description>
+            <link>https://thegrid.ai/thierre-di-castro-garrito/01a4ca8c-e9b6-4943-8782-c8fcc8cf3eda/index.html</link>
+            <guid isPermaLink="false">01a4ca8c-e9b6-4943-8782-c8fcc8cf3eda</guid>
+            <pubDate>Tue, 19 Apr 2016 10:52:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f87272d7-79fc-498a-9214-6be070bd0b41.jpg">]]></description>
-            <link>undefinedd453ed82-f753-40a0-ad96-4f328ea9ee9b/index.html</link>
+            <link>https://thegrid.ai/thierre-di-castro-garrito/d453ed82-f753-40a0-ad96-4f328ea9ee9b/index.html</link>
             <guid isPermaLink="false">d453ed82-f753-40a0-ad96-4f328ea9ee9b</guid>
             <pubDate>Tue, 19 Apr 2016 10:46:44 GMT</pubDate>
         </item>
